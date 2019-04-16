@@ -1,3 +1,3 @@
 # bitcoin
 Bitcoinについてまとめてみた.
-- https://scrapbox.io/sola/Bitcoin
+- https://scrapbox.io/solareenlo/Bitcoin
