@@ -1,0 +1,3 @@
+[submodule "bc-json-rpc"]
+	path = bc-json-rpc
+	url = git@github.com:solareenlo/bc-json-rpc.git
