@@ -1,3 +1,6 @@
 [submodule "bc-json-rpc"]
 	path = bc-json-rpc
 	url = git@github.com:solareenlo/bc-json-rpc.git
+[submodule "bc-zmq"]
+	path = bc-zmq
+	url = git@github.com:solareenlo/bc-zmq.git
